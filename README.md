@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm Cameron a student at the University of Paris Dauphine-
 - **[ENS House Price Prediction](https://github.com/cxmko/ENS-House-Price-Prediction)**: A machine learning model to predict house prices using various features. 
 
 ## Contact
-- [LinkedIn]([https://www.linkedin.com/in/cameron-mouangue-a77a7225a/])
+- [LinkedIn](https://www.linkedin.com/in/cameron-mouangue-a77a7225a/)
 - [Email](mailto:cam.mouangue@gmail.com)
 
 Feel free to explore my repositories and connect!
