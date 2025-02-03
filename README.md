@@ -2,9 +2,9 @@
 Welcome to my GitHub! I'm Cameron a student at the University of Paris Dauphine-PSL, pursuing a double degree in artificial intelligence and applied economics. I'm passionate about AI, data science, and machine learning, and I enjoy solving complex problems with innovative solutions.
 
 ## Skills & Technologies
-- Python
-- Jupyter Notebooks
-- Scikit-learn, TensorFlow
+- Python, C, SQL, R
+- Jupyter Notebooks, python scripts , Linux/Shell scripting
+- Scikit-learn, TensorFlow, Pytorch, numpy, pandas, matplotlib
 - Machine Learning, Deep Learning, Data Science
   
 
