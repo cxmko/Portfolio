@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm Cameron a student at the University of Paris Dauphine-
 - **[Best Odds Calculator](https://github.com/cxmko/Best-Odds-Calculator)**: A tool that scans sports betting websites for arbitrage opportunities. 
 - **[BNP-Paribas Fraud Detection](https://github.com/cxmko/BNP-Paribas-Fraud-Detection)**: An AI model to predict fraudulent transactions. 
 - **[ENS House Price Prediction](https://github.com/cxmko/ENS-House-Price-Prediction)**: A machine learning model to predict house prices using various features.
-- **[Deep Learning Final Project](https://github.com/cxmko/Deep-Learning-Final-Project)**: Theoretical analysis + methodical implementation of OBRS. Results: Precision/recall gains, computational trade-offs...
+- **[Deep Learning Final Project](https://github.com/cxmko/Deep-Learning-Final-Project)**: Theoretical analysis + methodical implementation of OBRS on GANs. Results: Precision/recall gains, computational trade-offs...
   
 
 ## Contact
